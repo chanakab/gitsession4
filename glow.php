@@ -24,9 +24,9 @@
         }
 
         .glowbox:before {
-            content: "hello";
+            content: "";
             background: linear-gradient(
-                    45deg,
+                    60deg,
                     #ff0000,
                     #ff7300,
                     #fffb00,
